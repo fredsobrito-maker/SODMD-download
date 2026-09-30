@@ -29,13 +29,15 @@
 |---|---|---|
 | 🪟 **Windows** 10 ou 11 (64 bits) | [**SODMD-Setup-1.3.exe**](https://github.com/fredsobrito-maker/SODMD-download/releases/download/v1.3/SODMD-Setup-1.3.exe) | 78 MB |
 | 🐧 **Linux** Mint, Ubuntu ou Debian | [**sodmd_1.3-1_all.deb**](https://github.com/fredsobrito-maker/SODMD-download/releases/download/v1.3/sodmd_1.3-1_all.deb) | 33 KB |
-| 🤖 **Android** 7.0 ou mais novo | [**SODMD-1.2.apk**](https://github.com/fredsobrito-maker/SODMD-download/releases/download/v1.3/SODMD-1.2.apk) | 781 KB |
+| 🤖 **Android** 7.0 ou mais novo | [**SODMD-1.3.apk**](https://github.com/fredsobrito-maker/SODMD-download/releases/download/v1.3/SODMD-1.3.apk) | 789 KB |
 
 Clique no nome do arquivo e o download começa na hora. Versões anteriores e
 a lista de novidades de cada uma estão em
 [**Todas as versões**](https://github.com/fredsobrito-maker/SODMD-download/releases).
 
-> O app Android segue na versão 1.2. A 1.3 trouxe novidades só para o computador.
+   > Novidades do app Android na 1.3: **figuras nos planos de aula** (espelhos esféricos e plano cartesiano,
+   > desenhados no próprio celular, sem internet) e um **botão para alternar entre tela em pé e deitada**.
+   > Se você já tem o app instalado, basta instalar o novo arquivo por cima: seus dados são mantidos.
 
 ## ✨ O que ele faz
 
