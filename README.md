@@ -27,9 +27,9 @@
 
 | Seu aparelho | Arquivo | Tamanho |
 |---|---|---|
-| 🪟 **Windows** 10 ou 11 (64 bits) | [**SODMD-Setup-1.3.exe**](https://github.com/fredsobrito-maker/SODMD-download/releases/download/v1.3/SODMD-Setup-1.3.exe) | 78 MB |
-| 🐧 **Linux** Mint, Ubuntu ou Debian | [**sodmd_1.3-1_all.deb**](https://github.com/fredsobrito-maker/SODMD-download/releases/download/v1.3/sodmd_1.3-1_all.deb) | 33 KB |
-| 🤖 **Android** 7.0 ou mais novo | [**SODMD-1.3.apk**](https://github.com/fredsobrito-maker/SODMD-download/releases/download/v1.3/SODMD-1.3.apk) | 789 KB |
+| 🪟 **Windows** 10 ou 11 (64 bits) | [**SODMD-Setup-1.4.exe**](https://github.com/fredsobrito-maker/SODMD-download/releases/download/v1.4/SODMD-Setup-1.4.exe) | 78 MB |
+| 🐧 **Linux** Mint, Ubuntu ou Debian | [**sodmd_1.4-1_all.deb**](https://github.com/fredsobrito-maker/SODMD-download/releases/download/v1.4/sodmd_1.4-1_all.deb) | 60 KB |
+| 🤖 **Android** 7.0 ou mais novo | [**SODMD-1.3.apk**](https://github.com/fredsobrito-maker/SODMD-download/releases/download/v1.4/SODMD-1.3.apk) | 789 KB |
 
 Clique no nome do arquivo e o download começa na hora. Versões anteriores e
 a lista de novidades de cada uma estão em
@@ -66,7 +66,7 @@ a lista de novidades de cada uma estão em
 <details open>
 <summary><b>🪟 Windows</b></summary>
 
-1. Baixe o `SODMD-Setup-1.3.exe` e dê dois cliques nele.
+1. Baixe o `SODMD-Setup-1.4.exe` e dê dois cliques nele.
 2. Se aparecer a tela azul **"O Windows protegeu o computador"**, clique em
    **Mais informações** e depois em **Executar assim mesmo**. O aviso aparece
    porque o instalador não tem assinatura digital paga. Não é vírus.
@@ -85,7 +85,7 @@ O SODMD aparece no menu Iniciar.
 **Pelo terminal:** abra o terminal na pasta Downloads e digite:
 
 ```bash
-sudo apt install ./sodmd_1.3-1_all.deb
+sudo apt install ./sodmd_1.4-1_all.deb
 ```
 
 O próprio sistema baixa o que faltar. O SODMD aparece no menu de aplicativos,
