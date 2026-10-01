@@ -2,16 +2,17 @@
   <img src="imagens/icone.png" width="96" alt="Ícone do SODMD">
 </p>
 
-<h1 align="center">SODMD</h1>
+<h1 align="center">SODMD para computador</h1>
 
 <p align="center">
   <b>Escreva seus planos de aula em texto simples, com equações de verdade.</b><br>
   Editor e leitor de Markdown com LaTeX, feito para professores.<br>
-  Gratuito, funciona sem internet, no Windows, no Linux e no Android.
+  Gratuito, funciona sem internet, no Windows e no Linux.<br>
+  Procurando a versão para celular? <a href="https://github.com/fredsobrito-maker/SODMD-celular-download"><b>SODMD para Android</b></a>.
 </p>
 
 <p align="center">
-  <a href="#-baixar"><b>⬇️ Baixar a versão 1.3</b></a> ·
+  <a href="#-baixar"><b>⬇️ Baixar a versão 1.4</b></a> ·
   <a href="#-como-instalar">Como instalar</a> ·
   <a href="#-primeiros-passos">Primeiros passos</a> ·
   <a href="#-perguntas-frequentes">Dúvidas</a>
@@ -29,15 +30,15 @@
 |---|---|---|
 | 🪟 **Windows** 10 ou 11 (64 bits) | [**SODMD-Setup-1.4.exe**](https://github.com/fredsobrito-maker/SODMD-download/releases/download/v1.4/SODMD-Setup-1.4.exe) | 78 MB |
 | 🐧 **Linux** Mint, Ubuntu ou Debian | [**sodmd_1.4-1_all.deb**](https://github.com/fredsobrito-maker/SODMD-download/releases/download/v1.4/sodmd_1.4-1_all.deb) | 60 KB |
-| 🤖 **Android** 7.0 ou mais novo | [**SODMD-1.3.apk**](https://github.com/fredsobrito-maker/SODMD-download/releases/download/v1.4/SODMD-1.3.apk) | 789 KB |
 
 Clique no nome do arquivo e o download começa na hora. Versões anteriores e
 a lista de novidades de cada uma estão em
 [**Todas as versões**](https://github.com/fredsobrito-maker/SODMD-download/releases).
 
-   > Novidades do app Android na 1.3: **figuras nos planos de aula** (espelhos esféricos e plano cartesiano,
-   > desenhados no próprio celular, sem internet) e um **botão para alternar entre tela em pé e deitada**.
-   > Se você já tem o app instalado, basta instalar o novo arquivo por cima: seus dados são mantidos.
+> **Novidade da 1.4:** **figuras nos planos de aula**. Blocos `figura` (espelhos, lentes, hidrostática,
+> eletromagnetismo, circuitos e ondulatória) são desenhados na visualização, sem internet, também no modo noturno.
+
+Para o celular, use a página do [**SODMD para Android**](https://github.com/fredsobrito-maker/SODMD-celular-download).
 
 ## ✨ O que ele faz
 
@@ -92,23 +93,6 @@ O próprio sistema baixa o que faltar. O SODMD aparece no menu de aplicativos,
 na categoria Escritório.
 </details>
 
-<details>
-<summary><b>🤖 Android</b></summary>
-
-1. Abra o link do `.apk` **no próprio celular** e baixe o arquivo.
-2. Toque na notificação de download concluído.
-3. O Android vai pedir para **permitir a instalação de apps desta fonte**.
-   Permita (só para o navegador que você usou) e volte.
-4. Toque em **Instalar**.
-
-No app, abra qualquer arquivo `.md` do celular. Você pode ler, marcar
-caixinhas de tarefa e editar. As alterações ficam gravadas no próprio arquivo.
-
-> **Chromebook da escola:** Chromebooks administrados pela instituição
-> costumam bloquear a instalação de APKs. Isso é uma regra da escola e não
-> tem como contornar pelo app.
-</details>
-
 ## 🚀 Primeiros passos
 
 Crie um arquivo novo (<kbd>Ctrl</kbd>+<kbd>N</kbd>), cole o texto abaixo e
@@ -143,7 +127,7 @@ Pronto: você já sabe 90% do que precisa. O resto está na colinha abaixo.
 | `*itálico*` | *itálico* |
 | `- item` | Lista com marcadores |
 | `1. item` | Lista numerada |
-| `- [ ] tarefa` | Caixinha de tarefa clicável (no Android) |
+| `- [ ] tarefa` | Caixinha de tarefa clicável (no app Android) |
 | `> observação` | Destaque (citação) |
 | `$x^2$` | Equação no meio do texto |
 | `$$ ... $$` | Equação centralizada, em linha própria |
